@@ -11,7 +11,7 @@ open System.IO
 
 let runs = 10
 let compilerForkToTest = @"https://github.com/manofstick/visualfsharp"
-let compilerHashes = ["bcf53a972488b6b2cf23c740459112a2edcaca52";  "7b6c07afc1169f50a417b26a3106abeec60735d8"]
+let compilerHashes = ["7b6c07afc1169f50a417b26a3106abeec60735d8"; "bcf53a972488b6b2cf23c740459112a2edcaca52" ]
 
 let additionalFlags = ""
 
